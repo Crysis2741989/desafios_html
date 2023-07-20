@@ -1,0 +1,60 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,700;1,300&display=swap');
+
+
+
+@font-face {
+    font-family:coolvetica;
+    src: url(coolvetica.otf);
+}
+
+h1 {font-family: coolvetica;
+font-size: 120px;
+font-weight: 400;
+color: #0a2ff1;
+}
+
+.subtitulo{font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    font-weight: 300;
+
+
+}
+
+
+#subtitulo{font-family: 'Roboto', sans-serif;
+            font-size: 40px;
+            font-weight: 700;
+
+
+}
+
+.contenedor{display: flex;}
+
+.caja1,.caja2,.caja3{ background-color: #eff2ff; padding: 40px;}
+
+.caja1{margin-right: 40px;}
+
+.caja2{margin-right: 40px;}
+
+#nombres{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 24px;
+    color: #04146c;
+    
+}
+
+#subtitulo2{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    color: #04146c;
+}
+
+#opinion{font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    color: black;
+}

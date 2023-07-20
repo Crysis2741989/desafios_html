@@ -1,0 +1,33 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;700;900&display=swap');
+@font-face {
+    font-family:coolvetica;
+    src: url(coolvetica.otf);
+}
+
+h1 {text-align: center;font-size: 120px; color: #0a2ff1;font-family:coolvetica;font-weight: 400;}
+p {text-align: center;font-size: 40px;color: #04146c; font-family: 'Source Sans 3', sans-serif;font-weight: 300;}
+
+#azul {  font-size: 40px; 
+         color: white; 
+         background-color: #0a2ff1;
+         font-family: 'Source Sans 3', sans-serif; 
+         font-weight: 400; 
+         border: 3px; }
+
+#blanco {font-size: 40px; 
+         color :#04146c;
+         background-color: white;
+         font-family: 'Source Sans 3', sans-serif;
+         font-weight: 400; 
+         border: 3px solid #0a2ff1;
+         }
+
+
+#contenedor {
+        display: flex;
+        justify-content: center;
+      }
+#botones{
+        align-self: center;
+      }
