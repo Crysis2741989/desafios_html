@@ -1,0 +1,30 @@
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,400;0,900;1,400&display=swap');
+
+h1{
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 83px;
+    font-weight: 900;
+    color: #04146c;
+}
+
+p{
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 21px;
+    font-weight: 400;
+    color: #04146c;
+}
+
+p span{
+    font-style: italic;
+}
+
+button{
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 18.6px;
+    font-weight: 400;
+    background-color: #04146c;
+    color: white;
+}
